@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
-
+        ///idjiodshuodbuovbsidvbdios
         /*bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
