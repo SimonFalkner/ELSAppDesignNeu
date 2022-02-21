@@ -7,4 +7,5 @@
     <string name="top_app_bar">Hauptseite</string>
     <string name="map">Karte</string>
     <string name="missions">Einsätze</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2ZhbGtuZXIiLCJhIjoiY2t0MWZneDFpMDN4ODJ1cjFyNTc3MnphMCJ9.HnqpuaxHFTZJlNbwGP-bPQ</string>
 </resources>
