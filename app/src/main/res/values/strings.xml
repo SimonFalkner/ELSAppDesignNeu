@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seite</string>
+    <string name="dangerApp">Gefährliche-Stoffe App</string>
+    <string name="carApp">Fahrzeug Details</string>
+    <string name="header_title">RLF</string>
+    <string name="header_text">Feuerwehr Walding</string>
+    <string name="top_app_bar">Hauptseite</string>
+    <string name="map">Karte</string>
+    <string name="missions">Einsätze</string>
+</resources>
