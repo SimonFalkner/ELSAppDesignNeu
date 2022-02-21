@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <com.mapbox.mapboxsdk.maps.MapView
-        xmlns:tools="http://schemas.android.com/tools"
+        
         xmlns:mapbox="http://schemas.android.com/apk/res-auto"
         android:id="@+id/mapView"
         android:layout_width="match_parent"
@@ -11,7 +11,7 @@
         mapbox:mapbox_cameraTargetLat="48.3516"
         mapbox:mapbox_cameraTargetLng="14.1597"
         mapbox:mapbox_cameraZoom="12"
-        mapbox:mapbox_styleUrl="mapbox://styles/mapbox/streets-v10"
+
         />
 
 
